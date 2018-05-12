@@ -1,0 +1,30 @@
+_repo: Emma-Goldman--Biographical-Sketch_33628
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Madison, Charles Allan
+    alias: Madison, Charles A. (Charles Allan)
+    birthdate: 1895
+    deathdate: 1985
+    gutenberg_agent_id: '36506'
+    url: http://www.gutenberg.org/2009/agents/36506
+description: ''
+gutenberg_issued: '2010-09-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33628'
+  lccn: '89215353'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Women communists -- United States -- Biography'
+- !lcc 'HX'
+- !lcsh 'Goldman, Emma, 1869-1940'
+- !lcsh 'Women anarchists -- United States -- Biography'
+title: 'Emma Goldman: Biographical Sketch'
+url: http://www.gutenberg.org/ebooks/33628
